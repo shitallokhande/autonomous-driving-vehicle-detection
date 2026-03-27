@@ -1,2 +1,1 @@
-# autonomous-driving-vehicle-detection
-Deep learning project for autonomous driving and vehicle detection using computer vision and convolutional neural networks (CNN). Implemented image preprocessing, object detection/classification, and model training using TensorFlow/Keras to analyze vehicle detection and autonomous driving safety scenarios.
+This project focuses on autonomous driving and vehicle detection using deep learning and computer vision techniques. The project includes image preprocessing, feature extraction, and building convolutional neural network (CNN) models for object detection and vehicle classification using TensorFlow/Keras. The model helps in understanding autonomous driving safety and vehicle detection scenarios.
